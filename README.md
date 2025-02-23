@@ -33,7 +33,7 @@ This project uses OpenCV to recognize and track toy cars in video footage. The p
 ## Getting Started
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/bog134/Car-tracker.git
+git clone https://github.com/Tomasz-Gawronski/Car-tracker.git
 ```
 2. **Install dependencies:**
 ```bash
